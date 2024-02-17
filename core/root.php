@@ -1,1 +1,0 @@
-<?php define('PROJECT_ROOT', dirname(dirname(__DIR__))); define('BOTENGINE_VER', dirname(dirname(__DIR__)));
