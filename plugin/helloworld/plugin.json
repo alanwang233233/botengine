@@ -1,0 +1,12 @@
+{
+    "version":"REL-1.0.0",
+    "botengine_version":"BETA-0.1.0",
+    "author":"Botengine Official",
+    "introduction":"Hello World!",
+    "perm":[
+        "bot.chat"
+    ],
+    "command":[
+        "/helloworld"
+    ]
+}
